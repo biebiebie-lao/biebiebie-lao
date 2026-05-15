@@ -12,7 +12,7 @@
 
 <p>
   <a href="mailto:2238619267c@gmail.com" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Gmail-lofisuchat%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-2238619267c%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 
   <a href="https://space.bilibili.com/1181773286" style="text-decoration:none;">

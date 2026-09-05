@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&pause=100000&lines=Hi,+I'm+laoBie.+ want to be a +Full-Stack+Engineer" alt="Hi"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=17&color=0078D7&center=true&vCenter=true&width=780&pause=100000&lines=Beijing+Sports+University+%7C+School+of+Sports+Engineering" alt="Current Role"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=17&color=0078D7&center=true&vCenter=true&width=780&multiline=true&pause=100000&lines=Hi,+I'm+laoBie,+and+I+want+to+be+a+Full-Stack+Engineer;Beijing+Sports+University+%7C+School+of+Sports+Engineering" alt="Hi, I'm laoBie, and I want to be a Full-Stack Engineer"/>
   <p>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px" height="28px" alt="wave"/>
-    <strong>I'm currently Focus on Agentic RL, Robotics.</strong>
+    <strong>I'm currently focused on Agentic RL, Robotics.</strong>
   </p>
   <p>
     <code>🌱 Born 2005.02.18 · Henan, China.</code>
